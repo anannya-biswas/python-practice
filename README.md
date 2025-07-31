@@ -11,8 +11,8 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 ---
 
 ## 🚀 Projects Included
----
-## 🚀 Beginner Projects
+--
+##  Beginner Projects
 
 | File                      | Description                              | Concepts Practiced                                 |
 |---------------------------|------------------------------------------|-----------------------------------------------------|
@@ -29,7 +29,7 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 
 ---
 
-## 🧠 Intermediate Projects
+##  Intermediate Projects
 
 | File                      | Description                              | Concepts Practiced                                 |
 |---------------------------|------------------------------------------|-----------------------------------------------------|
