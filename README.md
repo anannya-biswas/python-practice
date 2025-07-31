@@ -12,15 +12,19 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 
 ## 🚀 Projects Included
 
-| File                  | Description                               | Concepts Practiced                    |
-|-----------------------|-------------------------------------------|----------------------------------------|
-| `hello.py`            | First Python file!                        | Print, syntax basics                   |
-| `calculator.py`       | Simple calculator for + and - operations  | Functions, conditionals, input         |
-| `dice.py`             | Random dice roller                        | Loops, `random` module                 |
-| `password_checker.py` | Password strength checker                 | Strings, conditions, loops             |
-| `age_calculator.py`   | Calculate age from birth year             | `datetime` module, math                |
-| `converter.py`        | Convert KM to Miles                       | Math, formatting                       |
-| `quiz.py`             | Command-line quiz game                    | Dictionary, loops, scoring system      |
+| File                    | Description                              | Concepts Practiced                              |
+|-------------------------|------------------------------------------|--------------------------------------------------|
+| `hello.py`              | First Python file!                       | Print, syntax basics                             |
+| `calculator.py`         | Simple calculator for + and - operations | Functions, conditionals, input                   |
+| `dice.py`               | Random dice roller                       | Loops, `random` module                           |
+| `password_checker.py`   | Password strength checker                | Strings, conditions, loops                       |
+| `age_calculator.py`     | Calculate age from birth year            | `datetime` module, math                          |
+| `converter.py`          | Convert KM to Miles                      | Math, formatting                                 |
+| `quiz.py`               | Command-line quiz game                   | Dictionary, loops, scoring system                |
+| `to-do.py`              | CLI-based To-Do list manager             | Lists, file handling, loops                      |
+| `number-guess.py`       | Guess the number game                    | Loops, conditionals, `random` module             |
+| `rock-paper-scissors.py`| Classic rock-paper-scissors game         | Input, loops, conditionals, game logic           |
+
 
 ---
 
