@@ -11,7 +11,7 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 ---
 
 ## 🚀 Projects Included
---
+
 ##  Beginner Projects
 
 | File                      | Description                              | Concepts Practiced                                 |
