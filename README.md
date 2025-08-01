@@ -31,13 +31,18 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 
 ##  Intermediate Projects
 
-| File                      | Description                              | Concepts Practiced                                 |
-|---------------------------|------------------------------------------|-----------------------------------------------------|
-| `file_organizer.py`       | Organize files by type/folder            | `os` module, file handling, automation              |
-| `expense_tracker.py`      | Track and categorize expenses            | File I/O, lists/dictionaries, string formatting     |
-| `flashcard_app.py`        | Simple flashcard memorization tool       | Loops, dictionaries, memory logic                   |
-| `contact_book.py`         | Manage contacts using JSON/CSV           | JSON/CSV file handling, CRUD operations             |
-| `password_manager.py`     | Store and retrieve encrypted passwords   | File I/O, encryption (e.g., with `cryptography`)    |
+| File                        | Description                              | Concepts Practiced                                             |
+|----------------------------|------------------------------------------|----------------------------------------------------------------|
+| `file_organizer.py`        | Organize files by type/folder            | `os` module, file handling, automation                         |
+| `expense_tracker.py`       | Track and categorize expenses            | File I/O, lists/dictionaries, string formatting                |
+| `flashcard_app.py`         | Simple flashcard memorization tool       | Loops, dictionaries, memory logic                              |
+| `contact_book.py`          | Manage contacts using JSON/CSV           | JSON/CSV file handling, CRUD operations                        |
+| `password_manager.py`      | Store and retrieve encrypted passwords   | File I/O, encryption (e.g., with `cryptography`)               |
+| `live-currency-converter.py` | Real-time currency conversion using API | APIs (`requests`), JSON handling, input/output                 |
+| `unit-convert.py`          | Convert between different units          | Functions, dictionaries, math logic                            |
+| `unit-converter2.py`       | Interactive CLI converter (temp, length, weight) | Input handling, conditionals, functions              |
+| `random-password-generator.py` | Generate strong random passwords     | `random` module, string ops, user customization                |
+
 
 ---
 
