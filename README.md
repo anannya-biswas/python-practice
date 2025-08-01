@@ -42,7 +42,7 @@ This repo is part of my coding journey as an AI/ML student. I’m learning Pytho
 | `unit-convert.py`          | Convert between different units          | Functions, dictionaries, math logic                            |
 | `unit-converter2.py`       | Interactive CLI converter (temp, length, weight) | Input handling, conditionals, functions              |
 | `random-password-generator.py` | Generate strong random passwords     | `random` module, string ops, user customization                |
-
+| `file-search-tool.py`        | Search for files by name in a folder       | `os.walk`, string matching, user input                         |
 
 ---
 
